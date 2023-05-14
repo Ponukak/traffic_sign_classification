@@ -1,1 +1,1 @@
-# traffic_sign_classification
+This project will evaluate the performance of Vision Transformers (ViT) on the German Traffic Sign Recognition Benchmark (GTSRB) dataset using an effective variance of ViT, and new pretraining strategies.
